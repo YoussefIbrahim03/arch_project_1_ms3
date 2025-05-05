@@ -1,6 +1,6 @@
 # arch_project_1
 Milestone 2
-names:
+names: /endl
 Yussuf Abdelkarim 900212889
 seifeldin elwan: 900222286
 issues: there are no issues in the design all 42 instructions work properly
