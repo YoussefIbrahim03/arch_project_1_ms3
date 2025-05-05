@@ -1,0 +1,11 @@
+April 25, 4:00PM: Youssef and Seif went to the lab and transformed the single cycle implementation into a 5 stage pipeline implementation, adding the necessary wiring and registers.
+May 3, 4:00PM Youssef created the clock divider module and connected the new clock and the clock bar into the corresponding components to issue and instruction every two cycles preventing structural hazards in the single memory.
+May 3, 6:00PM: Youssef and Seif started working on the single memory implementation and created the logic of the memory and the input multiplexor and the output decoder.
+May 3, 8:00PM: Youssef and Seif added the forwarding unit and its logic, the hazard detection unit and its logic, and the flushing unit and its logic.
+May 4, 3:00PM: Youssef went to the lab with the student TA and tried to debug the memory to make it work.
+May 4, 4:30PM: Seif came to the lab and worked on the memory finalizing it to make it work.
+May 4, 6:00PM: Seif and Youssef starting running the test cases and making sure that the outputs are correct.
+May 5, 2:00PM: Youssef and Seif finished the implementation and realized that there is no need for a hazard detection unit so we removed it from the project completely and rearranged wires accordingly.
+May 5, 3:30PM: Youssef and Seif went to the lab and finalized testing of all the instructions and made sure that the project works properly.
+May 5, 5:00PM: Youssef worked on the bonus of making the CPU outputs appear on the FPGA board
+May 5, 8:00PM: Seif worked on the bonus of the assembly program simulator.
